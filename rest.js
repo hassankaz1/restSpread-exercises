@@ -1,8 +1,3 @@
-const obj1 = {
-    name: 'Whiskey',
-    species: 'canine',
-    cool: true,
-};
 /*
 function filterOutOdds() {
   var nums = Array.prototype.slice.call(arguments);
